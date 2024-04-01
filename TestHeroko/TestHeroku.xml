@@ -1,0 +1,9 @@
+<suite name="TestLogin" verbose="1">
+    <test name="Nopackage">
+        <classes>
+            <class name="logInTest"/>
+        </classes>
+    </test>
+
+
+</suite>
